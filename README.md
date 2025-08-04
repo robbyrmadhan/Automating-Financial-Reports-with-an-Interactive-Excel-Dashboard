@@ -16,13 +16,13 @@ Comprehensive Excel-based financial management system for small to medium enterp
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### Laporan Laba Rugi
-![Laporan Laba Rugi](screenshots/Laporan Laba Rugi.jpg)
+![Laporan Laba Rugi](image/Laporan Laba Rugi.jpg)
 
 ### Laporan Arus Kas
-![Laporan Arus Kas](screenshots/Laporan Arus Kas.jpg)
+![Laporan Arus Kas](image/Laporan Arus Kas.jpg)
 
 ### Gaji Karyawan
-![Gaji Karyawan](screenshots/Gaji Karyawan.jpg)
+![Gaji Karyawan](image/Gaji Karyawan.jpg)
 
 ## Sheet Structure
 
