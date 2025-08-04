@@ -13,13 +13,13 @@ Comprehensive Excel-based financial management system for small to medium enterp
 ## Preview
 
 ### Dashboard Overview
-![Dashboard Overview](https://github.com/robbyrmadhan/Automating-Financial-Reports-with-an-Interactive-Excel-Dashboard/blob/main/image/Laporan%20Arus%20Kas.jpg?raw=true)
+![Dashboard Overview](https://github.com/robbyrmadhan/Automating-Financial-Reports-with-an-Interactive-Excel-Dashboard/blob/main/image/Dashboard%20Overview.png?raw=true)
 
 ### Laporan Laba Rugi
 ![Laporan Laba Rugi](https://github.com/robbyrmadhan/Automating-Financial-Reports-with-an-Interactive-Excel-Dashboard/blob/main/image/Laporan%20Laba%20Rugi.jpg?raw=true)
 
 ### Laporan Arus Kas
-![Laporan Arus Kas](image/Laporan Arus Kas.jpg)
+![Laporan Arus Kas](https://github.com/robbyrmadhan/Automating-Financial-Reports-with-an-Interactive-Excel-Dashboard/blob/main/image/Laporan%20Arus%20Kas.jpg?raw=true)
 
 ### Gaji Karyawan
 ![Gaji Karyawan](https://github.com/robbyrmadhan/Automating-Financial-Reports-with-an-Interactive-Excel-Dashboard/blob/main/image/Gaji%20Karyawan.jpg?raw=true)
